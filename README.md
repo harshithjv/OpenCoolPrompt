@@ -31,7 +31,7 @@ Uses of this application:
     Harshith J.V. 
 
 ### Contact me
-    [harshithjv@yahoo.co.in](mailto:harshithjv@yahoo.co.in), [hjv1986@gmail.com](mailto:hjv1986@gmail.com)
+    harshithjv@yahoo.co.in, hjv1986@gmail.com
 
 
 Enjoy ...
