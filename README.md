@@ -1,6 +1,6 @@
 Open Cool Prompt
 =============
-Was created by me almost 3 years (August 04, 2009) back.
+Was created by me almost 3 years back(August 04, 2009).
 Decided to uploaded today (July 4, 2012).
 
 How to install?
@@ -28,18 +28,15 @@ The script, batch and READ ME files(this document) needs to be deleted by the us
 
 Uses of this application:
 -------
-(1)For programmers this app. serves as the quick access to any directories
-where is not registered in PATH variable so that can run executables found
-in that path. Good example is Cobol-85 Standard compiler which cannot be
-run even with PATH variable outside its own directory.
+* For programmers this app. serves as the quick access to any directories where is not registered in PATH variable so that can run executables found in that path. Good example is Cobol-85 Standard compiler which cannot be run even with PATH variable outside its own directory.
 
-(2) For other user this app. can be used for multitude of tasks such as convert
-audio formats through command-line tools, copying,deleting files within the
-selected directories, etc. .
+* For other user this app. can be used for multitude of tasks such as convert audio formats through command-line tools, copying, deleting files within the selected directories, etc ...
 
 
 By Harshith J.V.
+
 harshithjv@yahoo.co.in
+
 hjv1986@gmail.com
 
 
