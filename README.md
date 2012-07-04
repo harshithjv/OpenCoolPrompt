@@ -27,9 +27,10 @@ Uses of this application:
 * For other users, this application can be used for multitude of tasks such as to command-line based audio/video encoding/transcoding, copying, deleting files within the selected directories, etc ...
 
 
-By Harshith J.V., 
+### By 
+    Harshith J.V. 
 
-### Contact me: 
+### Contact me
     harshithjv@yahoo.co.in, hjv1986@gmail.com
 
 
